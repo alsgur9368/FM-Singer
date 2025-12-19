@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyTorch
+*.pth
+*.pt
+*.ckpt
+
+# Checkpoints (체크포인트는 용량이 크므로 제외)
+chkp_*/
+*.pth
+G_*.pth
+D_*.pth
+
+# Logs
+logs/
+*.log
+events.out.tfevents.*
+
+# Outputs
+outputs/
+results/
+samples/
+
+# Data files (데이터는 별도로 관리)
+*.wav
+*.mp3
+*.flac
+*.npy
+*.npz
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+
