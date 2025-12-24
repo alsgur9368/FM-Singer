@@ -15,6 +15,8 @@
 
 [[Paper]](https://github.com/alsgur9368/FM-Singer) - [[Code]](https://github.com/alsgur9368/FM-Singer) - [[Demo]](https://alsgur9368.github.io/Singing-Voice-Synthesis-Demo/Web_dir/) - [[Weights]](https://drive.google.com/drive/folders/1IIVTKc1AUzcXRVhnfGfQDWunc5YabYGy?usp=drive_link)
 
+#### This project base on [zhangyongmao's VISinger2 implementation](https://github.com/zhangyongmao/VISinger2)
+
 ## Getting Started
 
 ### Dependencies
